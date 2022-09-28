@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.maincontainer{
+    
+    justify-content: center;
+
+}
+#todocontainer{
+    margin: 15px;
+    justify-content: center;
+    height:300px;
+    width: 300px;
+    background-color: coral;
+}
+.parastyle{
+    cursor: pointer;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: bisque;
+    
+    
+}
+body{
+    background-color: aquamarine;
+}
